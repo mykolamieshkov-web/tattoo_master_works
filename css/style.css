@@ -66,6 +66,9 @@ body {
    margin-top: 15px;
 }
 @media (max-width: 31.25rem) {
+   .header {
+      height: min-content;
+   }
    .header img {
       width: 170px;
       height: 95px;
